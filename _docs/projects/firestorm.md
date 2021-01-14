@@ -5,7 +5,7 @@ description: RADAR, Aircraft Weaponary
 
 # Firestorm
 
-< WORK IN POGRESS>
+< WORK IN PROGRESS>
 
 ## Architecture
 
